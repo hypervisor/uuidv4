@@ -27,3 +27,5 @@ fn main() {
     println!("Generated UUID: {}", my_uuid);
 }
 ```
+
+> You can play around with UUIDs or generate them online [here](https://lotsoftools.com/tools/uuid)
