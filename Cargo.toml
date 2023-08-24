@@ -2,7 +2,7 @@
 name = "uuidv4"
 authors = ["Adrian"]
 description = "A lightweight library for generating UUID v4"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 license = "Unlicense"
 

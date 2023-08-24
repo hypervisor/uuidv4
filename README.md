@@ -14,7 +14,7 @@ Or manually add to your Cargo.toml:
 
 ```toml
 [dependencies]
-uuidv4 = "0.1.0"
+uuidv4 = "1.0.0"
 ```
 
 ## Usage
